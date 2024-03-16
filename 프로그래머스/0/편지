@@ -1,0 +1,4 @@
+def soultion(message):
+    list_message = list(message)
+    a = len(list_message)
+    return 2 * a
